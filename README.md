@@ -1,2 +1,2 @@
 # reverse_string
-using recursion
+using recursion and pointer
